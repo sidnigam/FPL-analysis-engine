@@ -5,7 +5,7 @@ Simple script to help manage FPL leagues. This script fetches the managers that 
 
 
 Sample output: 
-
+```
 Top 3 Scores Each Gameweek:
 Gameweek   Player               Score
 --------------------------------------------------
@@ -43,3 +43,4 @@ Sid Nigam            98
 Shalin Doshi         93
 Kushal Gevaria       69
 -----------------------------------
+```
